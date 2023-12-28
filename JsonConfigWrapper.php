@@ -1,4 +1,8 @@
 <?php
+/* Made by Francois284Modz
+Version : 1.0 
+*/
+
 class JsonConfigWrapper {
     private $configFile;
 
