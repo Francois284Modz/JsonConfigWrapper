@@ -38,7 +38,7 @@ $configData = $configWrapper->read();
    settings:$configData['title'] = 'New Website Title';
 $configWrapper->update($configData);
 ```
-##Example
+## Example
 
 ```php
 // Initialize the wrapper with the path to your JSON config file
